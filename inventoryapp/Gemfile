@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'rails-api'
+# gem 'activerecord'
+gem 'spring', :group => :development
+gem 'pg'
